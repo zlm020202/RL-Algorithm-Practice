@@ -61,6 +61,6 @@ Algorithm course group work
 
 ## 传送门
 
-[课题七：强化学习](./Reference/课题七：强化学习.pdf) <- 点击这里  
 [工程开源地址](https://github.com/EnTaroCLS/RL-Algorithm-Practice.git) <- 点击这里  
+[课题七：强化学习](./Reference/课题七：强化学习.pdf) <- 点击这里  
 [任务看板](./TaskBoard.md) <- 点击这里
