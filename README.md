@@ -4,16 +4,19 @@
  * @Author: lesheng
  * @Date: 2021-04-14 19:00:53
  * @LastEditors: lesheng
- * @LastEditTime: 2021-04-15 19:19:07
+ * @LastEditTime: 2021-04-15 19:59:03
 -->
 
 # RL-Algorithm-Practice
 
 Algorithm course group work
 
-## 选题
+## 传送门
 
-[课题七：强化学习](./Reference/课题七：强化学习.pdf) <- 详情
+[任务看板](./TaskBoard.md) <- 点击这里  
+[课题七：强化学习](./Reference/课题七：强化学习.pdf) <- 点击这里  
+[工程开源地址](https://github.com/EnTaroCLS/RL-Algorithm-Practice.git) <- 点击这里  
+[一些可能会用到的强化学习核心论文](./Reference/RLPaperSummary.md) <- 点击这里  
 
 ## 研究步骤
 
@@ -67,10 +70,3 @@ Algorithm course group work
         ```
 
   * 某一位成员对团队的贡献由所有其署名的文件、函数以及其工作空间中的内容共同组成
-
-## 传送门
-
-[任务看板](./TaskBoard.md) <- 点击这里  
-[课题七：强化学习](./Reference/课题七：强化学习.pdf) <- 点击这里  
-[工程开源地址](https://github.com/EnTaroCLS/RL-Algorithm-Practice.git) <- 点击这里  
-[一些可能会用到的强化学习核心论文](./Reference/RLPaperSummary.md) <- 点击这里  
