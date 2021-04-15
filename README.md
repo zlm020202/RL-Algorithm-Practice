@@ -1,3 +1,12 @@
+<!--
+ * @Description: A Help File
+ * @version: V1.0
+ * @Author: lesheng
+ * @Date: 2021-04-14 19:00:53
+ * @LastEditors: lesheng
+ * @LastEditTime: 2021-04-15 19:12:06
+-->
+
 # RL-Algorithm-Practice
 
 Algorithm course group work
@@ -25,7 +34,7 @@ Algorithm course group work
 上述只是简单概括的步骤,详细的任务我会每天在[任务看板](./TaskBoard.md)中更新
 
 * 在每天睡觉前我会更新[任务看板](./TaskBoard.md),例如添加新任务、勾选已完成任务、移除任务
-* 团队成员需要向@lesheng申请未派发的任务(先到先得),任务派出后我会在[任务看板](./TaskBoard.md)中该任务之后署名接受任务的同学及预期完成时间,若超时至少一天,则该任务重新开放,先前的同学可以将以获得的成果上传。如果一个任务长时间无人完成,而研究的继续必须依赖此任务,那么就来做
+* 团队成员需要向@EnTaroCLS申请未派发的任务(先到先得),任务派出后我会在[任务看板](./TaskBoard.md)中该任务之后署名接受任务的同学及预期完成时间,若超时至少一天,则该任务重新开放,先前的同学可以将以获得的成果上传。如果一个任务长时间无人完成,而研究的继续必须依赖此任务,那么就来做
 
     __注意__  
   * 这个工程应当由全体成员共同完成
@@ -61,6 +70,7 @@ Algorithm course group work
 
 ## 传送门
 
-[工程开源地址](https://github.com/EnTaroCLS/RL-Algorithm-Practice.git) <- 点击这里  
-[课题七：强化学习](./Reference/课题七：强化学习.pdf) <- 点击这里  
 [任务看板](./TaskBoard.md) <- 点击这里
+[课题七：强化学习](./Reference/课题七：强化学习.pdf) <- 点击这里  
+[工程开源地址](https://github.com/EnTaroCLS/RL-Algorithm-Practice.git) <- 点击这里  
+[一些可能会用到的强化学习核心论文](./Reference/RLPaperSummary.md) <- 点击这里  
